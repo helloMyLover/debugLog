@@ -1,2 +1,1 @@
-# debugLog
-just use 【表情】
+﻿# debugLog
